@@ -1,0 +1,2 @@
+-Make a copy of "template.html".
+(Note: Bootstrap doesn't have much styles so I think we might need to code in CSS for that later)
